@@ -1,6 +1,6 @@
 # Notes
 
-A simple application using google's youtube api using class components in React.
+A simple youtube search application using google's api with class components in React.
 
 # Getting Started with Create React App
 
